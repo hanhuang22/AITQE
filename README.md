@@ -92,7 +92,14 @@ If you encounter issues connecting to HuggingFace while running the code, you ca
 If you find our project or dataset helpful to your research, please consider citing:
 
 ```bibtext
-@misc{
+@misc{huang2024filteringadaptiveimagetextquality,
+      title={Beyond Filtering: Adaptive Image-Text Quality Enhancement for MLLM Pretraining}, 
+      author={Han Huang and Yuqi Huo and Zijia Zhao and Haoyu Lu and Shu Wu and Bingning Wang and Qiang Liu and Weipeng Chen and Liang Wang},
+      year={2024},
+      eprint={2410.16166},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.16166}, 
 }
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,7 +130,7 @@ We would like to thank the following projects and their great works: [Qwen](http
 [main]: figs/main.png
 
 [arxiv-shield]: https://img.shields.io/badge/Arxiv-paper-red?style=for-the-badge&logo=arxiv&logoColor=red
-[arxiv-url]: https://arxiv.org/abs/TODO
+[arxiv-url]: https://arxiv.org/abs/2410.16166
 
 [model-shield]: https://img.shields.io/badge/HF-Models-yellow?style=for-the-badge&logo=huggingface&logoColor=yellow
 [model-url]: https://huggingface.co/HymanH/AITQE
