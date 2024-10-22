@@ -1,6 +1,6 @@
 ---
-name: Queations
-about: Queations about the code, model and paper.
+name: Questions
+about: Questions about the code, model and paper.
 title: ''
 labels: question
 assignees: ''
